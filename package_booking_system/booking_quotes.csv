@@ -1,0 +1,22 @@
+package_id,customer,package_description,dangerous_contents,weight,volume,delivery_date,international_destination,route,cost
+bb39ba,Matt Dunn,Fireworks,Y,5,10,12/27/2023,N,Truck,25
+514767,Matt Dunn,Dog Food,N,5,20,12/25/2023,N,Air,400.0
+514767,Matt Dunn,Dog Food,N,5,20,12/25/2023,N,Truck,25
+52a55c,Allison Dunn,Books,N,1,4,12/19/2023,N,Air,80.0
+52a55c,Allison Dunn,Books,N,1,4,12/19/2023,N,Truck,45
+46f44b,Larry Minarcik,Computer,Y,1,15,12/21/2023,N,Truck,45
+c5ca8d,Jenny Minarcik,Cookies,N,2,5,12/25/2023,N,Air,100.0
+c5ca8d,Jenny Minarcik,Cookies,N,2,5,12/25/2023,N,Truck,25
+979a33,Andrew Dunn,Fireworks,Y,4,15,12/25/2023,N,Truck,25
+de4623,Grace Dunn,Christmas Presents,N,3,15,12/25/2023,N,Air,300.0
+de4623,Grace Dunn,Christmas Presents,N,3,15,12/25/2023,N,Truck,25
+cd8043,Bibby Dunn,Dog Food,N,5,10,12/15/2023,Y,Air,200.0
+cd8043,Bibby Dunn,Dog Food,N,5,10,12/15/2023,Y,Ocean,30
+09c23f,Will Ferrell,Santa's Sleigh,N,100,100,12/31/2023,N,Not Able to Be Shipped,0
+e9f81e,Jon Stewart,Christmas Lights,N,4,10,12/25/2023,Y,Air,200.0
+e9f81e,Jon Stewart,Christmas Lights,N,4,10,12/25/2023,Y,Ocean,30
+ea8a46,Chuck Dunn,Batteries,Y,5,150,12/31/2023,N,Not Able to Be Shipped,0
+0d5adc,John Oliver,Ornaments,N,2,4,12/20/2023,N,Air,80.0
+0d5adc,John Oliver,Ornaments,N,2,4,12/20/2023,N,Truck,45
+6248c9,Sue Johnson,Office Chair,N,9,10,12/20/2023,N,Air,200.0
+6248c9,Sue Johnson,Office Chair,N,9,10,12/20/2023,N,Truck,45
